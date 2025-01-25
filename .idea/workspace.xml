@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7161b06-154f-4988-bb4e-3315706d3fdc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch1/AddApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch1/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch10/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch10/ArrayAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch10/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch10/SimpleBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch10/StackApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch10/UpperLowerCaseApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch12/Scoping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch12/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch12/StudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch12/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch12/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch12/model/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch12/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch12/model/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch12/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch13/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch13/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch13/exceptions/InsufficientBalanceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch13/exceptions/NegativeAmountException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch13/exceptions/SsnNotValidException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/AnimalMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/PointMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/composition/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/composition/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/immutable/ImmutablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/immutable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/immutable/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/immutable/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/immutable/Point3DImmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/model/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/model/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/services/CodingFactoryLazy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/services/CodingFactorySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/services/HelloServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch14/services/HelloUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch15/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch15/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch15/GenericSpeakingSchool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch15/ISpeakable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch15/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch15/SpeakingSchool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch2/BigIntApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch2/CounterApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch2/DateTimeToSecondsConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch2/DigitsSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch2/EuroUsdConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch2/ExpressionsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch2/FrogJumpsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch2/IntApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch2/MathApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch2/MilesToKm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch2/PriceWithVat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch2/PrintApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch2/RandomApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch2/ScannerAddApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch2/TypecastApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch2/YearsToDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/FirstDigitFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/GradesApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/IsEvenApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/LightsOn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/NumDenominator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/PowerCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/SecretFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/SecretWhileFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/Sentinel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/Sentinel2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/SnowingApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/SpecialWhileTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/StarsWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/SumMul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/SumOfEvens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/VoteEligible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch3/tempApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch4/CharInApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch4/CharPrintApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch4/FlexibleFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch4/ForSumMulApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch4/PowerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch4/SpecialFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch4/Stars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch4/SwitchCaseApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch4/UnicodeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch5/AddApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch5/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch5/DivisionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch5/EvenOddApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch5/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch5/FactorialRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch5/MenuApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch5/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch5/PowerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch5/PowerAppRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch5/RightTriangleApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch5/SwapApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch6/ArrayDeepCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch6/ArrayInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch6/ArrayMinAndMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch6/ArrayMinMax2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch6/ArrayReferenceCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch6/ArraySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch6/ArraySearchWithMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch6/ArraysAsCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch6/ArraysInMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch6/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch6/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch6/CircularRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch6/JaggedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch6/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch6/ReplaceElementApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch6/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch6/SwapApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch6/SymmetricApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch6/TwoDimArrayApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch7/IOStrApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch7/ImmutableStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch7/IndexOfSubstringApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch7/ParseIntApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch7/SplitStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch7/StrBuilderApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch7/StrCompareApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch7/StrConcatApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch7/StrCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch7/StrEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch7/StrTraverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch7/StringInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch7/TraverseWithSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch8/Arithmetic1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch8/Arithmetic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch8/ArithmeticExceptionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch8/ExceptionTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch8/FinallyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch8/IndexOutOfBoundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch8/MultipleExceptionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch8/NullPointerExceptionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch8/NumberFormatExceptionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch8/SimpleBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch8/StateTestingApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch8/TryWithResourcesApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch9/BufferedReaderApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch9/FileApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch9/FileInOutApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch9/NamesScanning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch9/PdfBufferedCopyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch9/PdfCopyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch9/PrintStreamWithMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/practice/BingoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/practice/Ch8Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/practice/Ch8Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/practice/Emoji.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/practice/GetMaxPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/practice/MenuApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/practice/PowerCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/practice/PrintNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/practice/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/practice/Stars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/practice/StarsExc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/practice/StarsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/practice/SumOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/practice/pract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch1/InitialsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch1/MenuApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch1/SumApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch1/hints.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch1/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch1/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch12/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch12/UserCredentials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch12/hints.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch12/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch2/DateApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch2/FahrenheitToCelsiusApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch2/hints.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch2/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch3/LeapYearApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch3/Menu2App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch3/MenuApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch3/hints-LeapYearApp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch3/hints-MenuApp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch3/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch3/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch4/StarsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch4/hints.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch4/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch5/StarsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch5/hints.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch5/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch6/ArraysAsCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch6/LottoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch6/LowAndHighIndexApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch6/MaxCarsCh6App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch6/MaxPositionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch6/SecondMinApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch6/hints.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch6/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch7/CryptoJuliusCaesarApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch7/CryptoJuliusCaesarApp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch7/hints.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch7/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch8/ExceptionsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch8/SimpleBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch8/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch9/CopyAttachedWithMetadata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch9/LocationsJavaIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch9/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch9/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/solutions/ch9/readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/gr/aueb/cf/Solutions/ch6/SecondMinApp.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2nkuoZ0UfO5QqaOj5FjZ9kWZoZV" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddApp.executor": "Run",
+    "Application.ArrayDeepCopy.executor": "Run",
+    "Application.ArrayMinAndMax.executor": "Run",
+    "Application.ArrayReferenceCopy.executor": "Run",
+    "Application.ArraySearch.executor": "Run",
+    "Application.ArraySearchWithMethod.executor": "Run",
+    "Application.ArraysInMethods.executor": "Run",
+    "Application.BigIntApp.executor": "Run",
+    "Application.BingoApp.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.Ch8Practice1.executor": "Run",
+    "Application.Ch8Practice2.executor": "Run",
+    "Application.CharInApp.executor": "Run",
+    "Application.DateTimeToSecondsConverter.executor": "Run",
+    "Application.DigitsSum.executor": "Run",
+    "Application.Emoji.executor": "Run",
+    "Application.EuroUsdConverter.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.FirstDigitFinder.executor": "Run",
+    "Application.FlexibleFor.executor": "Run",
+    "Application.ForSumMulApp.executor": "Run",
+    "Application.GetMaxPosition.executor": "Run",
+    "Application.GradesApp.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.ImmutableStr.executor": "Run",
+    "Application.IntApp.executor": "Run",
+    "Application.IsEvenApp.executor": "Run",
+    "Application.JaggedArray.executor": "Run",
+    "Application.LightsOn.executor": "Run",
+    "Application.MaxPositionApp.executor": "Run",
+    "Application.MenuApp.executor": "Run",
+    "Application.ParseIntApp.executor": "Run",
+    "Application.PdfBufferedCopyApp.executor": "Run",
+    "Application.PowerApp.executor": "Run",
+    "Application.PowerCalculator.executor": "Run",
+    "Application.PrintApp.executor": "Run",
+    "Application.PrintNumbers.executor": "Run",
+    "Application.RandomApp.executor": "Run",
+    "Application.ReplaceElementApp.executor": "Run",
+    "Application.ReverseNumber.executor": "Run",
+    "Application.RightTriangleApp.executor": "Run",
+    "Application.ScannerAddApp.executor": "Run",
+    "Application.SecondMinApp.executor": "Debug",
+    "Application.SecretFinder.executor": "Run",
+    "Application.SecretWhileFinder.executor": "Run",
+    "Application.Sentinel2.executor": "Run",
+    "Application.SnowingApp.executor": "Run",
+    "Application.Stars.executor": "Run",
+    "Application.StarsApp.executor": "Run",
+    "Application.StarsExc.executor": "Run",
+    "Application.StarsMethod.executor": "Run",
+    "Application.StarsPractice.executor": "Run",
+    "Application.StarsWhile.executor": "Run",
+    "Application.StrEquals.executor": "Run",
+    "Application.SumOfEvens.executor": "Run",
+    "Application.SumOfNumbers.executor": "Run",
+    "Application.SwapApp.executor": "Run",
+    "Application.SwitchCaseApp.executor": "Run",
+    "Application.TypecastApp.executor": "Run",
+    "Application.VoteEligible.executor": "Run",
+    "Application.YearsToDays.executor": "Run",
+    "Application.gr.aueb.cf.ch3.PowerCalculator.executor": "Run",
+    "Application.gr.aueb.cf.ch4.Stars.executor": "Run",
+    "Application.gr.aueb.cf.practice.ReverseNumber.executor": "Run",
+    "Application.powerCalculator.executor": "Run",
+    "Application.pract.executor": "Run",
+    "Application.tempApp.executor": "Run",
+    "Application.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/gr/aueb/cf" />
+      <recent name="$PROJECT_DIR$/src/gr/aueb/cf/Solutions" />
+      <recent name="$PROJECT_DIR$/src/gr/aueb/cf/ch5" />
+      <recent name="$PROJECT_DIR$/src/gr/aueb/cf/ch4" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gr.aueb.cf.ch3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ch8Practice2">
+    <configuration name="Ch8Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.practice.Ch8Practice1" />
+      <module name="CF7Testbed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch8Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.practice.Ch8Practice2" />
+      <module name="CF7Testbed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch1.HelloWorld" />
+      <module name="CF7Testbed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.ch1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImmutableStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch7.ImmutableStr" />
+      <module name="CF7Testbed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.ch7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PdfBufferedCopyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch9.PdfBufferedCopyApp" />
+      <module name="CF7Testbed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.ch9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch7.StrEquals" />
+      <module name="CF7Testbed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.ch7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ch8Practice2" />
+        <item itemvalue="Application.Ch8Practice1" />
+        <item itemvalue="Application.PdfBufferedCopyApp" />
+        <item itemvalue="Application.StrEquals" />
+        <item itemvalue="Application.ImmutableStr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7161b06-154f-4988-bb4e-3315706d3fdc" name="Changes" comment="" />
+      <created>1729529570863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729529570863</updated>
+    </task>
+    <servers />
+  </component>
+</project>
